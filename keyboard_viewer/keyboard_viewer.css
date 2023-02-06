@@ -1,0 +1,165 @@
+body,html
+  {
+  margin:0;  
+  }
+
+
+#Escape_L         { position:absolute;  top:0;       left:0; }
+#Escape           { position:absolute;  top:0;       left:0; }
+#F1_L             { position:absolute;  top:0;       left:100px; }
+#F1               { position:absolute;  top:0;       left:100px; }
+#F2_L             { position:absolute;  top:0;       left:150px; }
+#F2               { position:absolute;  top:0;       left:150px; }
+#F3_L             { position:absolute;  top:0;       left:200px; }
+#F3               { position:absolute;  top:0;       left:200px; }
+#F4_L             { position:absolute;  top:0;       left:250px; }
+#F4               { position:absolute;  top:0;       left:250px; }
+#F5_L             { position:absolute;  top:0;       left:325px; }
+#F5               { position:absolute;  top:0;       left:325px; }
+#F6_L             { position:absolute;  top:0;       left:375px; }
+#F6               { position:absolute;  top:0;       left:375px; }
+#F7_L             { position:absolute;  top:0;       left:425px; }
+#F7               { position:absolute;  top:0;       left:425px; }
+#F8_L             { position:absolute;  top:0;       left:475px; }
+#F8               { position:absolute;  top:0;       left:475px; }
+#F9_L             { position:absolute;  top:0;       left:550px; }
+#F9               { position:absolute;  top:0;       left:550px; }
+#F10_L            { position:absolute;  top:0;       left:600px; }
+#F10              { position:absolute;  top:0;       left:600px; }
+#F11_L            { position:absolute;  top:0;       left:650px; }
+#F11              { position:absolute;  top:0;       left:650px; }
+#F12_L            { position:absolute;  top:0;       left:700px; }
+#F12              { position:absolute;  top:0;       left:700px; }
+
+#Backquote_L      { position:absolute;  top:70px;    left:0; }
+#Backquote        { position:absolute;  top:70px;    left:0; }
+#Digit1_L         { position:absolute;  top:70px;    left:50px; }
+#Digit1           { position:absolute;  top:70px;    left:50px; }
+#Digit2_L         { position:absolute;  top:70px;    left:100px; }
+#Digit2           { position:absolute;  top:70px;    left:100px; }
+#Digit3_L         { position:absolute;  top:70px;    left:150px; }
+#Digit3           { position:absolute;  top:70px;    left:150px; }
+#Digit4_L         { position:absolute;  top:70px;    left:200px; }
+#Digit4           { position:absolute;  top:70px;    left:200px; }
+#Digit5_L         { position:absolute;  top:70px;    left:250px; }
+#Digit5           { position:absolute;  top:70px;    left:250px; }
+#Digit6_L         { position:absolute;  top:70px;    left:300px; }
+#Digit6           { position:absolute;  top:70px;    left:300px; }
+#Digit7_L         { position:absolute;  top:70px;    left:350px; }
+#Digit7           { position:absolute;  top:70px;    left:350px; }
+#Digit8_L         { position:absolute;  top:70px;    left:400px; }
+#Digit8           { position:absolute;  top:70px;    left:400px; }
+#Digit9_L         { position:absolute;  top:70px;    left:450px; }
+#Digit9           { position:absolute;  top:70px;    left:450px; }
+#Digit0_L         { position:absolute;  top:70px;    left:500px; }
+#Digit0           { position:absolute;  top:70px;    left:500px; }
+#Minus_L          { position:absolute;  top:70px;    left:550px; }
+#Minus            { position:absolute;  top:70px;    left:550px; }
+#Equal_L          { position:absolute;  top:70px;    left:600px; }
+#Equal            { position:absolute;  top:70px;    left:600px; }
+#Backspace_L      { position:absolute;  top:70px;    left:650px; }
+#Backspace        { position:absolute;  top:70px;    left:650px; }
+
+#Tab_L            { position:absolute;  top:120px;   left:0px; }
+#Tab              { position:absolute;  top:120px;   left:0px; }
+#KeyQ_L           { position:absolute;  top:120px;   left:100px; }
+#KeyQ             { position:absolute;  top:120px;   left:100px; }
+#KeyW_L           { position:absolute;  top:120px;   left:150px; }
+#KeyW             { position:absolute;  top:120px;   left:150px; }
+#KeyE_L           { position:absolute;  top:120px;   left:200px; }
+#KeyE             { position:absolute;  top:120px;   left:200px; }
+#KeyR_L           { position:absolute;  top:120px;   left:250px; }
+#KeyR             { position:absolute;  top:120px;   left:250px; }
+#KeyT_L           { position:absolute;  top:120px;   left:300px; }
+#KeyT             { position:absolute;  top:120px;   left:300px; }
+#KeyY_L           { position:absolute;  top:120px;   left:350px; }
+#KeyY             { position:absolute;  top:120px;   left:350px; }
+#KeyU_L           { position:absolute;  top:120px;   left:400px; }
+#KeyU             { position:absolute;  top:120px;   left:400px; }
+#KeyI_L           { position:absolute;  top:120px;   left:450px; }
+#KeyI             { position:absolute;  top:120px;   left:450px; }
+#KeyO_L           { position:absolute;  top:120px;   left:500px; }
+#KeyO             { position:absolute;  top:120px;   left:500px; }
+#KeyP_L           { position:absolute;  top:120px;   left:550px; }
+#KeyP             { position:absolute;  top:120px;   left:550px; }
+#BracketLeft_L    { position:absolute;  top:120px;   left:600px; }
+#BracketLeft      { position:absolute;  top:120px;   left:600px; }
+#BracketRight_L   { position:absolute;  top:120px;   left:650px; }
+#BracketRight     { position:absolute;  top:120px;   left:650px; }
+#Enter_L          { position:absolute;  top:120px;   left:700px; }
+#Enter            { position:absolute;  top:120px;   left:700px; }
+
+#CapsLock_L       { position:absolute;  top:170px;   left:0px; }
+#CapsLock         { position:absolute;  top:170px;   left:0px; }
+#KeyA_L           { position:absolute;  top:170px;   left:100px; }
+#KeyA             { position:absolute;  top:170px;   left:100px; }
+#KeyS_L           { position:absolute;  top:170px;   left:150px; }
+#KeyS             { position:absolute;  top:170px;   left:150px; }
+#KeyD_L           { position:absolute;  top:170px;   left:200px; }
+#KeyD             { position:absolute;  top:170px;   left:200px; }
+#KeyF_L           { position:absolute;  top:170px;   left:250px; }
+#KeyF             { position:absolute;  top:170px;   left:250px; }
+#KeyG_L           { position:absolute;  top:170px;   left:300px; }
+#KeyG             { position:absolute;  top:170px;   left:300px; }
+#KeyH_L           { position:absolute;  top:170px;   left:350px; }
+#KeyH             { position:absolute;  top:170px;   left:350px; }
+#KeyJ_L           { position:absolute;  top:170px;   left:400px; }
+#KeyJ             { position:absolute;  top:170px;   left:400px; }
+#KeyK_L           { position:absolute;  top:170px;   left:450px; }
+#KeyK             { position:absolute;  top:170px;   left:450px; }
+#KeyL_L           { position:absolute;  top:170px;   left:500px; }
+#KeyL             { position:absolute;  top:170px;   left:500px; }
+#Semicolon_L      { position:absolute;  top:170px;   left:550px; }
+#Semicolon        { position:absolute;  top:170px;   left:550px; }
+#Quote_L          { position:absolute;  top:170px;   left:600px; }
+#Quote            { position:absolute;  top:170px;   left:600px; }
+#Backslash_L      { position:absolute;  top:170px;   left:650px; }
+#Backslash        { position:absolute;  top:170px;   left:650px; }
+
+#ShiftLeft_L      { position:absolute;  top:220px;   left:0px; }
+#ShiftLeft        { position:absolute;  top:220px;   left:0px; }
+#IntlBackslash_L  { position:absolute;  top:220px;   left:100px; }
+#IntlBackslash    { position:absolute;  top:220px;   left:100px; }
+#KeyZ_L           { position:absolute;  top:220px;   left:150px; }
+#KeyZ             { position:absolute;  top:220px;   left:150px; }
+#KeyX_L           { position:absolute;  top:220px;   left:200px; }
+#KeyX             { position:absolute;  top:220px;   left:200px; }
+#KeyC_L           { position:absolute;  top:220px;   left:250px; }
+#KeyC             { position:absolute;  top:220px;   left:250px; }
+#KeyV_L           { position:absolute;  top:220px;   left:300px; }
+#KeyV             { position:absolute;  top:220px;   left:300px; }
+#KeyB_L           { position:absolute;  top:220px;   left:350px; }
+#KeyB             { position:absolute;  top:220px;   left:350px; }
+#KeyN_L           { position:absolute;  top:220px;   left:400px; }
+#KeyN             { position:absolute;  top:220px;   left:400px; }
+#KeyM_L           { position:absolute;  top:220px;   left:450px; }
+#KeyM             { position:absolute;  top:220px;   left:450px; }
+#Comma_L          { position:absolute;  top:220px;   left:500px; }
+#Comma            { position:absolute;  top:220px;   left:500px; }
+#Period_L         { position:absolute;  top:220px;   left:550px; }
+#Period           { position:absolute;  top:220px;   left:550px; }
+#Slash_L          { position:absolute;  top:220px;   left:600px; }
+#Slash            { position:absolute;  top:220px;   left:600px; }
+#ShiftRight_L     { position:absolute;  top:220px;   left:650px; }
+#ShiftRight       { position:absolute;  top:220px;   left:650px; }
+
+#ControlLeft_L    { position:absolute;  top:270px;   left:0px; }
+#ControlLeft      { position:absolute;  top:270px;   left:0px; }
+#MetaLeft_L       { position:absolute;  top:270px;   left:100px; }
+#MetaLeft         { position:absolute;  top:270px;   left:100px; }
+#AltLeft_L        { position:absolute;  top:270px;   left:150px; }
+#AltLeft          { position:absolute;  top:270px;   left:150px; }
+#Space_L          { position:absolute;  top:270px;   left:200px; }
+#Space            { position:absolute;  top:270px;   left:200px; }
+#AltRight_L       { position:absolute;  top:270px;   left:500px; }
+#AltRight         { position:absolute;  top:270px;   left:500px; }
+#MetaRight_L      { position:absolute;  top:270px;   left:550px; }
+#MetaRight        { position:absolute;  top:270px;   left:550px; }
+#ContextMenu_L    { position:absolute;  top:270px;   left:600px; }
+#ContextMenu      { position:absolute;  top:270px;   left:600px; }
+#ControlRight_L   { position:absolute;  top:270px;   left:650px; }
+#ControlRight     { position:absolute;  top:270px;   left:650px; }
+
+
+.hidden { visibility:hidden;  }
+.show   {                     }
